@@ -119,7 +119,7 @@ export default {
         { id: '03', imgUrl: require('@/assets/img/swiper/333.jpg') },
         { id: '04', imgUrl: require('@/assets/img/swiper/444.jpg') },
         { id: '01', imgUrl: require('@/assets/img/swiper/111.jpg') },
-        // { id: '02', imgUrl: require('@/assets/img/swiper/222.jpg') },
+        { id: '02', imgUrl: require('@/assets/img/swiper/222.jpg') },
       ],
     };
   },
